@@ -1,5 +1,7 @@
 function Projects() {
     return ( 
+        <>
+        </>
         // <section id="projects">
         // <h1 className="text-center">Projects</h1>
         // <h2 className="text-center">Latest work</h2>
