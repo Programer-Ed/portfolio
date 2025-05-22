@@ -14,15 +14,6 @@ DevOps: Docker, CI/CD
 
 Security: Cybersecurity principles & best practices
 
-📌 Featured Projects
-
-🔹 DevJobs Board
-
-A job board application that connects developers with remote opportunities.🔗 Project Repo | 🖥️ Live Demo
-
-🔹 Personal Finance Tracker
-
-A web app for tracking income, expenses, and investments.🔗 Project Repo | 🖥️ Live Demo
 
 📄 About Me
 
